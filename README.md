@@ -39,7 +39,7 @@ To execute the files, follow the steps mentioned below :
 ----------------------------------------------------------------------------------------------------------------------------------------
 Contributors
 
-Aditya Arora adi.arora.797@gmail.com Bhawana Chhaglani sonachhaglani@gmail.com Akshit Yadav akshit7963@gmail.com
+Aditya Arora adi.arora.797@gmail.com Bhawana Chhaglani Akshit Yadav akshit7963@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
